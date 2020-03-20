@@ -1,4 +1,4 @@
-body { background-color: #FFD700; 
+body { background-color: #576E80; 
       background-image: url(Background.png);
       color: #191970;
       font-family: Verdana, Arial, sans-serif;
@@ -28,6 +28,7 @@ nav { text-align: center;
      font-weight: bold; 
 	 font-size: 1.5em;
 	 padding-top: 10px;
+	 background-color: #576E80;
 }
 nav a { text-decoration: none; }
 footer { background-color: #FFD700;
@@ -40,7 +41,9 @@ footer { background-color: #FFD700;
 main { padding-left: 2em;
       padding-right: 2em;
 	  padding-bottom: 2em;
+	  padding-top:1px;
       display: block; 
+	  background-color: #576E80;
 }
 h4 { background-color: #d2B48C;
     font-size: 1.2em;
